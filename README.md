@@ -6,5 +6,5 @@ I attempt to perform breast cancer prediction using the K‑Nearest Neighbors (K
 
 
 Require:
-pip install kagglehub
-conda install anaconda::kagglehub
+1. pip install kagglehub
+2. conda install anaconda::kagglehub
